@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+Youtube Link:
+https://www.youtube.com/watch?v=7qY0GXSNVn4
+
+
+
+
+
+
 <!--
 **ercumentgrx/ercumentgrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
